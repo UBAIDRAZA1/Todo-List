@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /tusr/bin/env node
 
 import inquirer from "inquirer"
 
